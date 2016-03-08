@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+}
+h1{
+	font-size: 4.8em;
+	text-align: center;
+	font-family: 'Slackey', cursive;
+	text-shadow: 3px 5px  #ff3385;
+}
+input { 
+	display: block; 
+	margin-left: 26px;
+	margin-bottom: 10px;
+	border: 2px solid #ff3385;
+    outline: 0 none;
+    width: 300px;
+}
+input:focus{
+	border:2px solid #00cca3;
+    box-shadow: 0 0 5px #99ffeb;
+}
+#story{
+	text-align: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+button{
+	margin-left: 10px;
+	font-family: 'Slackey', cursive;
+	display: inline-block;
+	text-align: center;
+	transition: background-color 0.6s;
+}
+button:hover{
+	background-color: rgba(0, 204, 163, 0.7);
+	color: white;
+}
