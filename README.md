@@ -1,11 +1,11 @@
-# Mad Lib
+# Mad Libs
 
 A Mad Lib creator that demonstrates how JavaScript events to manipulate the DOM.
 
 Adapted from 
 http://www.pairuptocode.com/exercises/madlibs.html
 
-![Try me on Plunker!](Try me on Plunker!) 
+[Try Mad Libs on Plunker!](https://plnkr.co/edit/vxmTYj0jtWAlfGbRMc6Z?p=info)
 
 
 screenshot
